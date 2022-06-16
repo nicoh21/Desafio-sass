@@ -108,3 +108,27 @@ body {
     justify-content: space-around;
     align-content: center;
     list-style: none; }
+
+.cfc1 {
+  border: 5px; }
+  .cfc1:hover {
+    background-color: #4e4efd; }
+  .cfc1 a {
+    text-decoration: none;
+    color: gray; }
+
+.cfc2 {
+  border: 5px; }
+  .cfc2:hover {
+    background-color: #8080f9; }
+  .cfc2 a {
+    text-decoration: none;
+    color: #b3b3b3; }
+
+.cfc3 {
+  border: 5px; }
+  .cfc3:hover {
+    background-color: #c8c8ff; }
+  .cfc3 a {
+    text-decoration: none;
+    color: #3c3c3c; }
